@@ -1,0 +1,11 @@
+DOOD :	
+	when user want to know meaning of an english word just write it in the textfild
+	and dood will search about this word in the "Cambrifge Dictionary" there is three possibilities
+	
+	1-there is no network >> dood will tell you no network
+	2-the word isn't correct dood will tell the word isn't correct
+	3-there is network and the word is correct :
+	
+	dood gone to search about this word in the "Cambrifge Dictionary" anta read all page source code(more than 2000 lines)
+	and get the explaintion of this word with examples and create folder in this folder create file with name the date of
+	the current day and but in this file all words with its explaintion and examples
